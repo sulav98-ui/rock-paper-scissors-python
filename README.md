@@ -31,7 +31,7 @@ The program compares both choices
 
 The result (win, lose, or draw) is displayed on the screen
 
-oncepts Used
+concepts Used
 
 Python basics
 
